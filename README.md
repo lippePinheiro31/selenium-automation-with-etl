@@ -1,11 +1,11 @@
-#Automação ETL com Python e Selenium
-##Visão Geral do Projeto
+# Automação ETL com Python e Selenium
+## Visão Geral do Projeto
 
 Este projeto simula um cenário real de negócio, onde dados provenientes de um arquivo Excel precisam ser migrados para um sistema web que não possui integração via API, permitindo apenas o cadastro manual por meio de formulários online.
 
 Para resolver esse problema, foi desenvolvido um pipeline de ETL automatizado, utilizando Python, tratamento de dados e automação web com Selenium.
 
- ##Contexto do Problema
+ ## Contexto do Problema
 
 Muitas empresas ainda utilizam sistemas legados que exportam dados em Excel.
 Durante processos de migração, é comum que seja necessário cadastrar manualmente grandes volumes de informações em novos sistemas.
@@ -48,7 +48,7 @@ Preenchimento automático de formulários web utilizando Selenium
 
 Simulação real de interação humana com o sistema
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Python
 
